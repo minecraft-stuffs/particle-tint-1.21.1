@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "wiw:item/handle",
+    "layer1": "wiw:item/head",
+    "layer2": "wiw:item/binding"
+  }
+}

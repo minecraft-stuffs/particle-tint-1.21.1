@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.rhseung.wiw.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CrackParticleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
